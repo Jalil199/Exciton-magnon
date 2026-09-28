@@ -1,0 +1,10 @@
+# Jupyter autosaves
+.ipynb_checkpoints/
+
+# Numerical scratch outputs (regenerable from the scripts in scratchpad/)
+*.npz
+*.npy
+*.log
+
+# Third-party papers (copyright) -- keep only our own draft
+**/Perfetto*.pdf
